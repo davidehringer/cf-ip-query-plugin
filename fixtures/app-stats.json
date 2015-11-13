@@ -1,0 +1,86 @@
+{
+   "2": {
+      "state": "RUNNING",
+      "stats": {
+         "name": "network-testing",
+         "uris": [
+            "network-testing-pseudoviperous-woefulness.example.com"
+         ],
+         "host": "10.11.112.51",
+         "port": 61002,
+         "uptime": 97532,
+         "mem_quota": 536870912,
+         "disk_quota": 1073741824,
+         "fds_quota": 16384,
+         "usage": {
+            "time": "2015-11-13 02:01:57 +0000",
+            "cpu": 0.00047476379488118486,
+            "mem": 446672896,
+            "disk": 142721024
+         }
+      }
+   },
+   "0": {
+      "state": "RUNNING",
+      "stats": {
+         "name": "network-testing",
+         "uris": [
+            "network-testing-pseudoviperous-woefulness.example.com"
+         ],
+         "host": "10.11.112.29",
+         "port": 61004,
+         "uptime": 100621,
+         "mem_quota": 536870912,
+         "disk_quota": 1073741824,
+         "fds_quota": 16384,
+         "usage": {
+            "time": "2015-11-13 02:01:57 +0000",
+            "cpu": 0.000501655393391111,
+            "mem": 435548160,
+            "disk": 142721024
+         }
+      }
+   },
+   "1": {
+      "state": "RUNNING",
+      "stats": {
+         "name": "network-testing",
+         "uris": [
+            "network-testing-pseudoviperous-woefulness.example.com"
+         ],
+         "host": "10.11.112.55",
+         "port": 61004,
+         "uptime": 96191,
+         "mem_quota": 536870912,
+         "disk_quota": 1073741824,
+         "fds_quota": 16384,
+         "usage": {
+            "time": "2015-11-13 02:01:57 +0000",
+            "cpu": 0.0002820650225111482,
+            "mem": 439033856,
+            "disk": 142721024
+         }
+      }
+   },
+   "3": {
+      "state": "RUNNING",
+      "stats": {
+         "name": "network-testing",
+         "uris": [
+            "network-testing-pseudoviperous-woefulness.example.com"
+         ],
+         "host": "10.11.12.39",
+         "port": 61011,
+         "uptime": 98242,
+         "mem_quota": 536870912,
+         "disk_quota": 1073741824,
+         "fds_quota": 16384,
+         "usage": {
+            "time": "2015-11-13 02:01:57 +0000",
+            "cpu": 0.0005969198870673592,
+            "mem": 437837824,
+            "disk": 142721024
+         }
+      }
+   }
+}
