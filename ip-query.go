@@ -6,7 +6,6 @@ import (
 	"os"
 	"strings"
 	"net"
-	"log"
 )
 
 type IpQuery struct{}
